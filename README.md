@@ -49,3 +49,6 @@ Click any button to trigger its assigned action (game launch, settings toggle, e
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 ---
+## 📷 Photo
+<img width="1280" height="800" alt="photo_2026-06-28_13-53-30 (2)" src="https://github.com/user-attachments/assets/ad885a1d-2e42-42d9-9496-7aaa83b61e12" />
+---
