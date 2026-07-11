@@ -22,25 +22,10 @@ Designed to be:
 ---
 ### 📦 Installation Steps
 
-#### 1. Copy the Configuration File
-1. Download your custom `.json` layout file.
-2. Open your file manager and navigate to your **Download** folder.
-3. Long-press the `.json` file and select **Copy**.
 
-#### 2. Paste into the Zalith Directory
-Navigate to the directory configured during your launcher setup:
-* **Default Path:** `Internal Storage/ZalithLauncher/control/` (or `controlmap/`)
-* **Custom Isolated Path:** `Internal Storage/[Your Custom Setup Folder]/control/`
+https://github.com/user-attachments/assets/05fbf9f6-2d94-4087-81ce-d1744dbc412c
 
-Paste the `.json` file directly inside the **control** folder.
 
-#### 3. Activate the Layout in-App
-1. Open **Zalith Launcher**.
-2. Tap **Manage Control Layout** on the main dashboard.
-3. Select your newly imported layout from the list.
-4. Set it as your **Active Layout**.
-
-> ✅ No additional dependencies required.
 ---
 ## 🧪 Usage
 Once installed, the controller panel will be visible in the main window.
